@@ -2,7 +2,7 @@
 
 [Github repository link for this Portfolio](https://github.com/strrules105/Portfolio) 
 
-![My Picture](https://github.com/strrules105/Portfolio/blob/main/Self-Picture.png)
+![My Picture](https://github.com/strrules105/Portfolio/blob/main/Self-Picture.png?raw=true)
 
 
 _Figure 1:_ (A photo of myself sitting in my dorm.)

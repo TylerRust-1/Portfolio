@@ -1,7 +1,4 @@
 ## Tyler Rust Portfolio
-# header 1
-## header 2
-### header 3
 
 [Github repository link for this Portfolio](https://github.com/strrules105/Portfolio) 
 

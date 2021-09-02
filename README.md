@@ -1,6 +1,6 @@
 ## Tyler Rust Portfolio
 
-[Github repository link for this Portfolio](https://github.com/strrules105/Portfolio) 
+[Github repository link for this Portfolio](https://github.com/strrules105/Portfolio)  I can be contacted at trust@udel.edu
 
 ![My Picture](https://github.com/strrules105/Portfolio/blob/main/Resized-Picture.png?raw=true?=250x250)
 

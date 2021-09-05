@@ -12,7 +12,7 @@ Inherits="TypeScriptWithWeb.WebForm1"%>
             <div>  
                 <scriptsrc="app.ts">  
                 </script>//ref of ts file  
-            </div>  
+            </div>  //test
         </form>  
     </body>  
 </html>   

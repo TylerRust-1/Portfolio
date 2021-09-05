@@ -14,5 +14,5 @@ interface MyInterface {
    }  
    window.onload = () => {  
     var name = new MyClass("Mcn", "solution", " at India");  
-    document.body.innerHTML = data(name);  
+    document.body.innerHTML = data(name); //test  
    }  

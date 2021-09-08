@@ -7,6 +7,8 @@
 
 _Figure 1:_ (A photo of myself sitting in my dorm.)
 
+
+### Change Log
 8/31/2021 - I read up on using Markdown to create this portfolio [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
 9/5/2021 - Got set up with VSCode using  

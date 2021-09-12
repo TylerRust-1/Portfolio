@@ -7,6 +7,8 @@
 
 _Figure 1:_ (A photo of myself sitting in my dorm.)
 
+# This page is being moved to a new HTML site that I am actively developing, [New Site](https://strrules105.github.io/HTMLPortfolio/)
+
 
 ### Change Log
 8/31/2021 - I read up on using Markdown to create this portfolio [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)
@@ -28,6 +30,8 @@ This was done using a guide at [https://www.freecodecamp.org/news/a-practical-gu
   
 9/11/2021 - Updated To Do section with plans on reorganizing this whole Portfolio.
 
+9/12/2021 - I started developing the new HTML project for my portfolio because I can do much more with it than Markdown, added link at header of this page.
+
 ### To Do
 Currently, I intend on building a website similar to what one of my friends, Michael Young, has built [https://runeflip.herokuapp.com/](https://runeflip.herokuapp.com/) I wasn't sure if herokuapp provided more functionality than Github pages, so I intend to try it out and see which I like most. After I figure this project out with the OldSchool Runescape API, I want to make a webpage that tracks my stock investments without the need for my brokerage app.
 
@@ -35,7 +39,7 @@ It might be possible in the future to make the Pokedex subpages myself and furth
 
 I might drop the TicTacToe project, doesn't seem all too interesting, but I just want to find a good guide/tutorial for React
 
-Going to make my own HTML code for the website instead of Markdown like I have been using. I think I'll be able to make the layout much more clean and organized. Also, I will separate the changelog from the work accomplished, I only set it up the way it is now because we were given such short notice.
+Continue developing HTML version of this portfolio and move everything important over, wanted to do this to keep the pages more organized and easier for me to update.
 
   
 Made using the jekyll-theme-tactile [https://github.com/pages-themes/tactile](https://github.com/pages-themes/tactile)

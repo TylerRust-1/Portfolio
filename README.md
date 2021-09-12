@@ -2,16 +2,6 @@
 
 [Github repository link for this Portfolio](https://github.com/strrules105/Portfolio)  I can be contacted at trust@udel.edu
 
-<div class="header">
-  <a href="#default" class="logo">CompanyLogo</a>
-  <div class="header-right">
-    <a class="active" href="#home">Home</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
-  </div>
-</div>
-
-
 ![My Picture](https://github.com/strrules105/Portfolio/blob/main/Resized-Picture.png?raw=true?=250x250)
 
 
